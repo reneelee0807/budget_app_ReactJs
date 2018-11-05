@@ -1,0 +1,17 @@
+td, th {
+    padding: 0;
+    text-align: left;
+}
+.sum {
+    text-align: left;
+    font-size:2em;
+}
+
+.costs {
+    width: 60em;
+    margin: 0 auto;
+}
+
+#balance{
+    font-weight:bold;
+}
